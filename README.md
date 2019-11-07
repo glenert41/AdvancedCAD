@@ -19,8 +19,8 @@ In this assignment, we had to create 4 different gears using different configura
 The most important lesson that I learned was configuartions. They make creating derived parts from one initial part much easier. I learned that if you are using equations for your configurations, to make sure that you select the correct tab. If you want a change to only apply to one configuration, MAKE SURE you click "For Only this Configuration" or you will risk changing all your other progress on other configurations. 
   
  ### Images and Diagrams
- 
- 
+ Rendering of Gears
+ <img src="media1/GearsProof.PNG" width="512">
  
  
  
