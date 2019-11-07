@@ -61,9 +61,13 @@ In this assignment, we had to create a platform and mechanuism that would mimic 
 
   
  ### Images and Diagrams
+Rendering of Motion Study
 
 
+ <img src="media1/Motion_Study%20(PV_1).JPG" width="512">
 
+
+ <img src="media1/Motion_Study%20(PV_2).JPG" width="512">
 
 
  ## Stress Analysis
