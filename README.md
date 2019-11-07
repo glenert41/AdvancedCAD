@@ -82,7 +82,7 @@ Rendering of Motion Study
  ## Stress Analysis
  
  ### Description
-In this assignment, we had to create a servo horn and do a proper stress analysis on the horn. The stress analysis would tell us where forces are lower and higher, as well as weak and strong points.
+In this assignment, we had to create a part (similar to a servo horn in shape) and do a proper stress analysis on the horn. The stress analysis would tell us where forces are lower and higher, as well as weak and strong points.
  
  ### Lessons Learned
  
