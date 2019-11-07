@@ -20,6 +20,8 @@ The most important lesson that I learned was configuartions. They make creating 
   
  ### Images and Diagrams
  Rendering of Gears
+ 
+ 
  <img src="media1/GearsProof.PNG" width="512">
  
  
