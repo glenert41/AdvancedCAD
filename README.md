@@ -42,9 +42,9 @@ The biggest lesson that I learned from this Gearbox assignment was how to use ge
  ### Images and Diagrams
 
 
+Rendering of Gearbox
 
-
-
+ <img src="media1/Gearbox%20(PV).JPG" width="512">
 
 
 
