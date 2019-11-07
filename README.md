@@ -70,6 +70,15 @@ Rendering of Motion Study
  <img src="media1/Motion_Study%20(PV_2).JPG" width="512">
 
 
+
+
+
+
+
+
+
+
+
  ## Stress Analysis
  
  ### Description
@@ -80,9 +89,10 @@ In this assignment, we had to create a servo horn and do a proper stress analysi
  A lesson that I leanred from the Stress Analysis was that fillets make parts stronger. If you have a 90 degree angle, adding a fillet will likely increase the strength of the part. Also, besides just learning how to set up the Stress Analysis, there is a thing to remember, similar to the Motion Study. Pay attention to what boxes you have checked, as well as where your forces are coming from. This can lead to an issue where you have incorrect results from a result of incorrect set up. 
 
  ### Images and Diagrams
+Rendering of Stress Analyisis
 
 
-
+ <img src="media1/StressAnalysisRender.PNG" width="512">
 
 
 
